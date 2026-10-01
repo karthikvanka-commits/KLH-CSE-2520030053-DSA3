@@ -1,0 +1,4 @@
+Lab_ID,Lab_Name,Capacity,Available_Slots
+LAB01,Programming Lab,20,09:00-10:00;10:00-11:00;11:00-12:00
+LAB02,Data Structures Lab,20,09:00-10:00;10:00-11:00;11:00-12:00
+LAB03,Advanced Computing Lab,15,09:00-10:00;10:00-11:00;11:00-12:00
